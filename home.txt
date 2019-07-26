@@ -1,5 +1,4 @@
 day la trang home
 chinh sua tu dev
-<<<<<<< HEAD
 chinh sua tu header
 chinh sua tu main
