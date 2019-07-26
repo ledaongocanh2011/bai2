@@ -3,3 +3,4 @@ chinh sua tu dev
 chinh sua tu header
 chinh sua tu main
 chinh sua tu hotfix
+chinh sua tu remote
